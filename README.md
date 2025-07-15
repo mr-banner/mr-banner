@@ -1,5 +1,5 @@
-# 👋 Hi there, I'm Kamal Sahu! 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/> Hi there, I'm Kamal Sahu! 
+
 I'm a passionate Frontend Developer skilled in building scalable web applications using **React**, **Redux Toolkit**, **Tailwind CSS**, and **Firebase**. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 
 ---
