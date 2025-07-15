@@ -58,6 +58,15 @@ A fully responsive React-based e-commerce platform featuring role-based access (
 
 ---
 
+## 🏅 GitHub Badges
+
+These are a few special achievements unlocked on my GitHub journey:
+
+- 🦈 [**Pull Shark**](https://github.com/mr-banner?achievement=pull-shark&tab=achievements) – Merged pull requests  
+- 🟣 [**YOLO**](https://github.com/mr-banner?achievement=yolo&tab=achievements) – Merged PRs without code review
+
+---
+
 ## 🗓 GitHub Streak & Contributions
 
 <p align="left">
