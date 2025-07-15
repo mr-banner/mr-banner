@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Kamal Sahu!
-
+# 👋 Hi there, I'm Kamal Sahu! 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/>
 I'm a passionate Frontend Developer skilled in building scalable web applications using **React**, **Redux Toolkit**, **Tailwind CSS**, and **Firebase**. I enjoy translating designs into pixel-perfect UIs and bringing products to life with interactive, responsive, and clean code.
 
 ---
@@ -22,36 +22,48 @@ I'm a passionate Frontend Developer skilled in building scalable web application
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Contributions
 
-- ✅ **Completed 2 Full-Stack Projects** using React, Node.js, MongoDB, and MySQL  
-- 🏅 **Built a GitHub + LeetCode Profile Viewer App** integrating multiple public APIs  
-- 🔐 **Developed OTP Verification with Firebase Auth**  
-- 🌟 **Integrated Dark/Light Theme Toggle** using Redux and Material UI  
-- 🧠 **Solved 150+ DSA Problems** across platforms like LeetCode and GeeksForGeeks  
-- 🎓 Currently working on an AI-powered video conferencing platform with automated summaries  
+- ✅ **Completed a Full-Stack Project** using React, Node.js, MongoDB, and MySQL    
+- 🔐 **Built OTP Verification** flow with Firebase Authentication  
+- 🌗 **Integrated Dark/Light Theme Toggle** using Redux and Material UI  
+- 🧠 **Solved 150+ DSA Problems** on LeetCode and GeeksForGeeks  
+- 💡 Currently building an **AI-powered video conferencing platform** with auto-generated summaries  
 
 ---
 
-## 🔥 Featured Projects
+### 📛 GitHub Achievements
 
-### 🎯 GitHub & LeetCode Profile Viewer  
-A React + Redux app that displays GitHub and LeetCode stats using their public APIs.  
-**Tech**: React, Redux Toolkit, Tailwind, Axios  
-🔗 [Live Demo](#) • [Source Code](#)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-banner&theme=radical&column=4&margin-w=15&margin-h=15" />
+</p>
 
-### 📚 Assessment Platform  
-Online education platform with module-based assessments, student login, and OTP verification.  
-**Tech**: React, Redux, Firebase, Material UI  
-🔗 [Live Demo](#)
+---
+
+## 🔥 Featured Project
+
+### 🎯 Quickpick E-commerce  
+A fully responsive React-based e-commerce platform featuring role-based access (admin/user), file uploads via Multer, Cloudinary image hosting, and a Node.js backend.  
+**Tech**: React, Redux Toolkit, Tailwind CSS, Axios, Multer, Cloudinary  
+🔗 [Live Demo](https://quickpick-e-commerce.vercel.app/) • [Source Code](https://github.com/mr-banner/Quickpick-E-commerce)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalsahu221&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-banner&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-banner&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalsahu221&layout=compact&theme=radical)
+---
+
+## 🗓 GitHub Streak & Contributions
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=mr-banner&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mr-banner&limit=10&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</p>
 
 ---
 
